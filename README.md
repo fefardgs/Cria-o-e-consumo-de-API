@@ -18,6 +18,7 @@ O projeto consiste em um ecossistema cliente-servidor:
 * **CSS:** Estilização responsiva com uso de fontes externas (Poppins e Bebas Neue).
 * **Fetch API:** Para comunicação assíncrona e requisições à API.
 * **HTML**: Estruturação semântica da aplicação.*
+* **JSON**: é um formato leve de troca de dados, baseado em texto, fácil para humanos lerem e máquinas processarem.
 
 ## 🚀 Instruções para Executar o Backend (Máquina 1)
 1. No computador que servirá como servidor, abra o terminal na pasta do projeto.
