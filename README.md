@@ -6,7 +6,7 @@
 Back-End são executados em maquinas diferentes e se comunicam pela rede. O professor deu a oportunidade de  tema livre, 
 entao fizemos MARVEL UNIVERSE. Onde a nossa API mostrava as imagens de acordo com a pesquisa da pessoa.**
 
-**🤗 GRUPOS DISPONIVEIS NA NOSSA API**
+**🤗 GRUPOS DISPONIVEIS NA NOSSA API:**
 **trio, guys, blondes, fantastic e evil**
 
 ## 📝 Descrição do Projeto
