@@ -32,7 +32,7 @@ O projeto consiste em um ecossistema cliente-servidor:
 **Bash**
 node server.js
 
-***Verificação de Rede: - O terminal entrará em estado de escuta (ficará parado).**
+***Verificação de Rede: - O terminal entrará em estado de escuta (ficará parado).***
 
 Descubra o IP local desta máquina (digite ipconfig no Windows e anote o campo Endereço IPv4).
 
