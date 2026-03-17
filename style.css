@@ -13,7 +13,7 @@ display:flex;
 flex-direction:column;
 justify-content:center;
 align-items:center;
-background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("https://external-preview.redd.it/i-couldnt-find-a-high-res-marvel-background-for-my-computer-v0-Kg4Vp8is0tdeLhPtIeIw0LFqPQBEF87O0l6rB6AOMwY.jpg?width=1080&crop=smart&auto=webp&s=d470db0d9d65d8bc75e16efbda5985ea2cf52b02");
+background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url("https://external-preview.redd.it/i-couldnt-find-a-high-res-marvel-background-for-my-computer-v0-Kg4Vp8is0tdeLhPtIeIw0LFqPQBEF87O0l6rB6AOMwY.jpg?width=1080&crop=smart&auto=webp&s=d470db0d9d65d8bc75e16efbda5985ea2cf52b02");
 
 
 
@@ -25,10 +25,19 @@ background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("https://e
 
 h2{
 
-font-family: "Bebas Neue", sans-serif;;
-
-color:#d81935;
+/*font-family: "Bebas Neue", sans-serif;*/
+font-family: "Tourney", sans-serif;
+/*color:#d1001f;*/
 font-size:60px;
+
+/*color: #830f0f;
+transition: color .7s;
+ color: rgb(231, 15, 33) !important;*/
+
+ background-clip: text;
+-webkit-background-clip: text;
+background-image: linear-gradient(#f10000, #580b0b);
+ color: transparent;/* Peguei do google*/
 
 margin-bottom:30px;
 
@@ -40,9 +49,11 @@ font-weight: bold;
 
 /* CARD PRINCIPAL */
 
+
 .container{
 
-background:#171821;
+background-color:#000000;
+
 
 width:90%;
 
@@ -55,6 +66,10 @@ border-radius:12px;
 box-shadow:0 10px 40px rgba(0,0,0,0.6);
 
 text-align:center;
+border-radius: 15px;
+padding: 25px;
+box-shadow: 0 0 20px rgba(0,0,0,0.5);
+
 
 
 
@@ -103,6 +118,7 @@ border:2px solid #e01a38;
 button{
 
 background:#e01a38;
+color: transparent;
 
 color:white;
 
