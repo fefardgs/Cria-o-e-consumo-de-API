@@ -6,6 +6,9 @@
 Back-End são executados em maquinas diferentes e se comunicam pela rede. O professor deu a oportunidade de  tema livre, 
 entao fizemos MARVEL UNIVERSE. Onde a nossa API mostrava as imagens de acordo com a pesquisa da pessoa.**
 
+**🤗 GRUPOS DISPONIVEIS NA NOSSA API**
+**trio, guys, blondes, fantastic e evil**
+
 ## 📝 Descrição do Projeto
 O projeto consiste em um ecossistema cliente-servidor:
 * **Back-end:** Um servidor Node.js (Express) responsável por servir os arquivos da aplicação e gerenciar o tráfego de dados. Ele foi configurado para "escutar" conexões de qualquer dispositivo na rede local.
