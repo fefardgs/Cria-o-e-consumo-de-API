@@ -2,8 +2,8 @@
 ***Nomes: Fernanda C. Rodrigues Ferreira e Isabelle Queiroz Rodrigues***
 
 **O Projeto pedido pelo professor foi para montarmos uma API, onde nos criamos um cenario real de desenvolvimento onde o Front-end e O
-Back-End são executados em maquinas diferentes e se comunicam pela rede. O professor deu a oportunidade fazer tema livre, 
-entao fizemos MARVEL UNIVERSE. Onde a nossa API mostrava as imagens de acordo com a pesquisa da pessoa complemnete isso.**
+Back-End são executados em maquinas diferentes e se comunicam pela rede. O professor deu a oportunidade de  tema livre, 
+entao fizemos MARVEL UNIVERSE. Onde a nossa API mostrava as imagens de acordo com a pesquisa da pessoa.**
 
 ## 📝 Descrição do Projeto
 O projeto consiste em um ecossistema cliente-servidor:
