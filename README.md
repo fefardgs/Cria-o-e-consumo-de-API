@@ -1,4 +1,5 @@
-**DS3**
+**Disciplina:** **DS3**
+
 ***Nomes: Fernanda C. Rodrigues Ferreira e Isabelle Queiroz Rodrigues***
 
 **O Projeto pedido pelo professor foi para montarmos uma API, onde nos criamos um cenario real de desenvolvimento onde o Front-end e O
