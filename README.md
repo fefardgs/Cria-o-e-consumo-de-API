@@ -1,5 +1,5 @@
 **DS3**
-***Nomes: Fernanda C. Rodrigues Ferreira e Isabelle Queiroz Rodrigues*
+***Nomes: Fernanda C. Rodrigues Ferreira e Isabelle Queiroz Rodrigues***
 
 **O Projeto pedido pelo professor foi para montarmos uma API, onde nos criamos um cenario real de desenvolvimento onde o Front-end e O
 Back-End são executados em maquinas diferentes e se comunicam pela rede. O professor deu a oportunidade fazer tema livre, 
@@ -31,15 +31,15 @@ node server.js
 
 Descubra o IP local desta máquina (digite ipconfig no Windows e anote o campo Endereço IPv4).
 
-*2.* Acesso e Execução do Frontend (Máquina Cliente)
+**2**-Acesso e Execução do Frontend (Máquina Cliente)
 Esta máquina acessará a aplicação de forma remota através da rede.
 
-**1**Conexão de Rede: Certifique-se de que este computador está conectado no mesmo Wi-Fi ou roteador que a Máquina Servidora.
+**1**-Conexão de Rede: Certifique-se de que este computador está conectado no mesmo Wi-Fi ou roteador que a Máquina Servidora.
 
-**2**Acesso via Navegador: Abra o Google Chrome ou Firefox e, na barra de endereços, digite o IP da Máquina Servidora seguido da porta 3000.
+**2**-Acesso via Navegador: Abra o Google Chrome ou Firefox e, na barra de endereços, digite o IP da Máquina Servidora seguido da porta 3000.
 
-**3**Formato: http://[IP-DA-MAQUINA-SERVIDORA]:3000
+**3**-Formato: http://[IP-DA-MAQUINA-SERVIDORA]:3000
 
-**4**Exemplo Real: http://192.168.1.15:3000
+**4**-Exemplo Real: http://192.168.1.15:3000
 
-**5**Interação: O navegador carregará a interface Marvel Universe vinda do servidor remoto. Ao realizar uma busca, o Frontend processará a requisição e exibirá os dados e imagens em tempo real.***
+**5**-Interação: O navegador carregará a interface Marvel Universe vinda do servidor remoto. Ao realizar uma busca, o Frontend processará a requisição e exibirá os dados e imagens em tempo real.***
