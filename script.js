@@ -16,7 +16,7 @@ const heroArea = document.querySelector(".hero-area");
 // URL DA API
 // ==============================
 
-const API = "http://10.106.208.40:3000/api/marvel";
+const API = "http://10.106.208.6:3000/api/marvel";
 
 // ==============================
 // FUNÇÃO PRINCIPAL

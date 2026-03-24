@@ -20,6 +20,14 @@ background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url("https:
 
 
 }
+.mensagem-rodape {
+    color: #ffffff;          /* Vermelho para combinar com o tema */
+    font-family: 'Arial', sans-serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
 
 /* TÍTULO */
 
